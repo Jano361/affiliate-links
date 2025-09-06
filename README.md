@@ -1,0 +1,2 @@
+# affiliate-links
+affiliate-links
